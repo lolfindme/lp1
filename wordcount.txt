@@ -1,0 +1,2 @@
+Hello this is akash
+word count using python
